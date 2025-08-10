@@ -1,2 +1,6 @@
 # Simple-Calculator
-Simple Calculator for addition , subtraction , multiplication &amp; Division 
+A simple Python program that performs basic mathematical operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division
