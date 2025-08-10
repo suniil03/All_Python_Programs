@@ -12,7 +12,10 @@ python codename.py
 - Multiplication
 - Division
 
-2. Time-Based Greeting - A simple Python program that greets the user based on the current time
+2. Time-Based Greeting - A simple Python program that greets the user based on the current time.
 
 3. Multiplication Table - A simple Python program that displays the multiplication table of any number entered by the user.
+
+4. Factorial Calculator - This Python program calculates the factorial of a given number using recursion.
+- Special case: 0! = 1
  
